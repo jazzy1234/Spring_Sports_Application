@@ -1,1 +1,2 @@
-players_world
+- This is an application that logs and creates entries for NBA players which includes various things about their performance such as points per game, years in the NBA, etc.
+- This application utilizes an H2 SQL database, Spring framework (SpringBoot and JPA libraries) application layer, and HTML/Javascript front end. 
